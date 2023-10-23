@@ -5064,13 +5064,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   platformCatcher: {fileID: 0}
   speed: 2
-  platformType: 0
+  platformType: 1
   startMovingOnlyWhenVisible: 0
   isMovingAtStart: 1
   localNodes:
   - {x: 0, y: 0, z: 0}
   - {x: 6.9941254, y: 0.043804407, z: 0}
+  - {x: 7.9941254, y: 0.043804407, z: 0}
+  - {x: 8.994125, y: 0.043804407, z: 0}
   waitTimes:
+  - 0
+  - 0
   - 0
   - 0
 --- !u!61 &61455244285419906
